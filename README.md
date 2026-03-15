@@ -34,8 +34,6 @@ Currently building hands-on projects to understand how real-world systems are bu
 ✔ Linux Automation Scripts
 ✔ Dockerized Applications
 ✔ Multi-Container Apps using Docker Compose
-✔ Reverse Proxy with Nginx
-✔ CI/CD Pipeline Experiments
 
 ---
 
