@@ -1,68 +1,61 @@
-<h1 align="center">Hi 👋, I'm Pawan Patil</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Automation Learner | Cloud Enthusiast</h3>
+# 👋 Hello, I'm Pawan Patil
 
-<p align="center">
-Passionate about building scalable systems, automating workflows, and learning modern DevOps tools.
-</p>
+🚀 DevOps Enthusiast | Automation Learner | Future Cloud Engineer
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Science Student
-* 🌱 Currently learning **DevOps & Cloud Technologies**
-* 💻 Working with **Linux, Docker, Git, and Shell Scripting**
-* 🔧 Interested in **Automation, CI/CD, and Infrastructure**
-* 🎯 Goal: Become a **Professional DevOps Engineer**
+I am a passionate learner focused on **DevOps practices, automation, and modern infrastructure**.
+Currently building hands-on projects to understand how real-world systems are built, deployed, and scaled.
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ What I'm Working On
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,nginx,kubernetes,aws,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+🔹 Learning Linux system administration
+🔹 Writing automation scripts using Bash
+🔹 Building containerized applications with Docker
+🔹 Understanding networking fundamentals
+🔹 Exploring Kubernetes and CI/CD pipelines
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠️ Technologies & Tools
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🛠️ DevOps Projects
-
-🔹 Linux System Monitoring Script
-🔹 Dockerized Web Application
-🔹 Multi-Container Application with Docker Compose
+💻 Linux
+🔧 Git & GitHub
+🐳 Docker
+📜 Shell Scripting
+🌐 Computer Networking
+⚙️ CI/CD (Learning)
+☁️ Cloud & Kubernetes (Exploring)
 
 ---
 
-## 📚 Currently Learning
+## 📂 DevOps Learning Projects
 
-* Kubernetes
-* CI/CD Pipelines
-* Cloud Platforms (AWS)
-* Infrastructure Automation
+✔ Linux Automation Scripts
+✔ Dockerized Applications
+✔ Multi-Container Apps using Docker Compose
+✔ Reverse Proxy with Nginx
+✔ CI/CD Pipeline Experiments
 
 ---
 
-## 📫 Connect With Me
+## 🎯 My DevOps Journey
+
+I believe the best way to learn DevOps is by **building real-world projects and automating everything possible**.
+
+Every project in this repository represents **a step in my journey to becoming a professional DevOps Engineer.**
+
+---
+
+## 📬 Connect With Me
+
+LinkedIn:https://www.linkedin.com
+Email: https://mail.google.com
+
+---
+
+⭐ Always learning. Always building. Always automating.
+
 
 
 <!--
