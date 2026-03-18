@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pawan Patil
 
-🚀 DevOps Enthusiast | Automation Learner | Future Cloud Engineer
+🚀 DevOps Enthusiast | Automation Learner | 
 
 I am a passionate learner focused on **DevOps practices, automation, and modern infrastructure**.
 Currently building hands-on projects to understand how real-world systems are built, deployed, and scaled.
