@@ -34,6 +34,7 @@ Currently building hands-on projects to understand how real-world systems are bu
 ✔ Linux Automation Scripts
 ✔ Dockerized Applications
 ✔ Multi-Container Apps using Docker Compose
+✔ Microservices Docker Project
 
 ---
 
